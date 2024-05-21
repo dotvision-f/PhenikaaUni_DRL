@@ -7,4 +7,4 @@ You will need Python 3.x.x with some packages which you can install direclty usi
 
 ### Running The Game
 Use the following command to run the game where '--model' indicates the location of saved DQN model.
-> python3 play_game.py --model checkpoints/flappy_best_model.dat
+> python3 play_game.py --model checkpoints/best_DQN.dat
